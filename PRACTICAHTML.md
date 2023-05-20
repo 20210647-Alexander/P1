@@ -9,7 +9,7 @@
 <body>    
     <h1>ALEXANDER BAUTISTA HERNANDEZ</h1>
     <h2>Tecnologia de la Informacion</h2>
-    <img src="./img/management-vector-icon-png_246579.jpg" alt="" width="300px" height="300px">
+    <img src="./img/57fffe72-a551-43c2-ba9e-2d130cb6b9a4.jpg" alt="" width="400px" height="300px">
     <article>
         <p>"Todo poder que no reconoce limites, crece se eleva, se dilata, y por fin se hunde por su propio peso".</p>
         <p>"La virtud es un punto intermedio entre dos vicions opuestps".</p>
@@ -23,7 +23,6 @@
         <li>Futball</li>
         <li>Parcticar la Programcion</li>
     </ul>
-    <h2>Horario</h2>
     <table>
         <tr>
             <th><p>Horas</p></th>
@@ -122,8 +121,15 @@
             <th></th>
         </tr>
     </table>
+    <h2>Informacion</h2>
+    <ol>
+        <li>telefono: 7711195878</li>
+        <li>Correo: 20210647@uthh.edu.mx</li>
+    </ol>
+    
     <h2>Redes Sociales</h2> 
-    <a href="https://www.facebook.com/profile.php?id=100073458679667&mibextid=ZbWKwL">Facebook</a><br>
+    <a href="https://www.facebook.com/profile.php?id=100073458679667&mibextid=ZbWKwL">Mi facebook</a><br>
     <a href="https://github.com/20210647-Alexander/P1.git">github</a>
+
 </body>
 </html>
