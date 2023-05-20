@@ -23,6 +23,7 @@
         <li>Futball</li>
         <li>Parcticar la Programcion</li>
     </ul>
+    <h2>Horario</h2>
     <table>
         <tr>
             <th><p>Horas</p></th>
@@ -122,7 +123,7 @@
         </tr>
     </table>
     <h2>Redes Sociales</h2> 
-    <a href="https://www.facebook.com/profile.php?id=100073458679667&mibextid=ZbWKwL">Facebook</a>
-    <a href=""></a>
+    <a href="https://www.facebook.com/profile.php?id=100073458679667&mibextid=ZbWKwL">Facebook</a><br>
+    <a href="https://github.com/20210647-Alexander/P1.git">github</a>
 </body>
 </html>
