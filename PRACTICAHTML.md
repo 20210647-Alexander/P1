@@ -126,7 +126,6 @@
         <li>telefono: 7711195878</li>
         <li>Correo: 20210647@uthh.edu.mx</li>
     </ol>
-    
     <h2>Redes Sociales</h2> 
     <a href="https://www.facebook.com/profile.php?id=100073458679667&mibextid=ZbWKwL">Mi facebook</a><br>
     <a href="https://github.com/20210647-Alexander/P1.git">github</a>
